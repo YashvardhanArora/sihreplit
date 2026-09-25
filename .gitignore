@@ -1,0 +1,12 @@
+__pycache__/
+node_modules/
+*.py[cod]
+.cache/
+.local/
+.config/
+.replit
+.env
+.env.*
+!.env.example
+screenshots/
+*.zip

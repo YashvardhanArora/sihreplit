@@ -1,0 +1,1 @@
+- [Groq vision availability](groq-vision-availability.md) — verify live model access before planning image OCR; this account's available models did not include vision.

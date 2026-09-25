@@ -1,0 +1,44 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "uzpAilUc7sUdWIvzvyDk_"
+uri = "file://BhoomiLens-render.zip"
+type = "unspecified"
+title = "Updated BhoomiLens Render package"
+description = "Includes the matching BhoomiLens favicon and the fixed browser tab title, alongside the latest app changes."
+logical_id = "52426d63-36aa-4f06-9a0a-2c934d570af0"
+content_hash = "sha256:e2b1d76f315a691561d3cff793ddecbe793fba97cfe889eaae600baba5d92331"
+size = 18411598
+mtime_ms = 1790313942973
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:5fd2442f-724c-45b8-9a23-f6b65bfa0a84/52426d63-36aa-4f06-9a0a-2c934d570af0/df6420e6-f9e4-4ba2-880e-6bd74e36001f"
+storage_version_token = "1790313957298550"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "GdHvF6cyWDKe54WTADghC"
+uri = "file://screenshots/ocr-edit-review.jpg"
+type = "image"
+title = "OCR review — mobile layout"
+description = "On phones, the clear edit prompt and editable fields come before the document preview."
+logical_id = "f2803560-47b2-4444-b13c-ad29cbf83315"
+content_hash = "sha256:7e9fe734109b3180da4b1da683421c280bd1051711105208c584dfaad893381e"
+size = 68502
+mtime_ms = 1790312823366
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:5fd2442f-724c-45b8-9a23-f6b65bfa0a84/f2803560-47b2-4444-b13c-ad29cbf83315/1b029d1d-fb02-4ba0-a9ab-39977e4ab759"
+storage_version_token = "1790312894165243"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "sdd6ZkOTumqzAXn9i17PQ"
+uri = "file://screenshots/ocr-edit-review-desktop.jpg"
+type = "image"
+title = "OCR review — desktop layout"
+description = "Restored photo-left and editable-fields-right layout with the blue review cards and clear edit prompt."
+logical_id = "e8e1ae22-7e10-413b-a9d5-ef0791eae2e8"
+content_hash = "sha256:8d74ff5bbdb32c41710b89d904c03340b222172a338864428cff5dbc17dced66"
+size = 130063
+mtime_ms = 1790312820066
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:5fd2442f-724c-45b8-9a23-f6b65bfa0a84/e8e1ae22-7e10-413b-a9d5-ef0791eae2e8/c1094661-0fb1-421b-8c53-4f1c3cac2be4"
+storage_version_token = "1790312892878754"
+content_type = "image/jpeg"
